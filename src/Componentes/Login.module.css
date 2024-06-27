@@ -1,5 +1,6 @@
-.Login{
-  display:flex;
-  flex-wrap:wrap;
-  align-itens:center;
-  justify-contente:center;}
+.Login {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
